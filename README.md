@@ -1,2 +1,4 @@
 # Salon-Silky-Hair
-Created a cutting-edge Beauty Salon &amp; Consultancy Management System for "Salon Silky Hair Kurunegala," enhancing client experiences and optimizing operations. It handles appointments, client records, inventory, transactions, sales, beauty tips, and promotions, driving digital engagement, boosting revenue, and increasing productivity.
+A state-of-the-art Beauty Salon & Consultancy Management System was developed for "Salon Silky Hair Kurunegala," enhancing client experiences and streamlining operations. The system manages appointment scheduling, client records, inventory, financial transactions, product sales, beauty tips, and promotions, driving digital interaction, increasing revenue, and boosting productivity.
+Technology used: - HTML, CSS, JavaScript, Bootstrap, JSP, Servlet, MySQL
+Resources used: - Visual Studio Code, Apache Netbeans, MySQL Workbench
